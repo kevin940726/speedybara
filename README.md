@@ -3,4 +3,4 @@
 </p>
 <h1 align="center">Speedybara</h1>
 
-A native Windows desktop app for speedhacking AFK Journey.
+<p align="center">A native Windows desktop app for speedhacking AFK Journey.</p>
