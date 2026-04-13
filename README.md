@@ -13,6 +13,7 @@
 
 **Important:** The app requires administrator privileges to inject into game processes.
 
+> [!IMPORTANT]
 > **⚠️ Disable V-Sync for this app to work**
 >
 > V-Sync (Vertical Sync) must be **disabled** in the game's graphics settings for speedhacking to function properly. When V-Sync is enabled, the game locks the frame rate to your monitor's refresh rate, which interferes with the time-hooking mechanism used by this tool.
