@@ -18,7 +18,7 @@
 
 <p align="center"><a href="https://github.com/kevin940726/speedybara/releases/latest">⬇ Download latest release</a> • <a href="#-quick-start">Quick Start</a> • <a href="#-features">Features</a> • <a href="#-caveats">Caveats</a></p>
 
-> **Current version:** `v1.2.0` stable • `v2.0.0-beta.2` prerelease — prereleases are not auto-offered to stable users.
+> **Current version:** `v2.0.0` • prereleases are not auto-offered to stable users.
 
 ---
 
